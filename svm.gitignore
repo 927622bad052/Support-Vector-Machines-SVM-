@@ -1,0 +1,18 @@
+# Python cache and virtual environment folders
+__pycache__/
+*.py[cod]
+*.so
+
+# Env
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
