@@ -28,3 +28,7 @@ This repository demonstrates a simple project on Support Vector Machines (SVM) u
    ```bash
    git clone https://github.com/your-username/svm-project.git
    cd svm-project
+
+2.   Install dependencies:
+bash
+pip install -r requirements.txt   
